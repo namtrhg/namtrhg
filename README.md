@@ -1,7 +1,3 @@
-# Hi, I'm Nam 👋
-
-## Front-End Engineer | Tech Enthusiast | Lifelong Learner
-
 ## About Me
 
 I am a front-end engineer with passion for building interactive and user-friendly web applications.
