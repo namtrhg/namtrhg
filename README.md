@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a front-end engineer with passion for building interactive and user-friendly web applications.
+I am a front-end engineer with passion for building interactive and user-friendly web applications, my main tech-stack included: ReactJS, TailwindCSS, NodeJS, MySQL/ PostgreSQL.
 
 ## Skills and Technologies
 
