@@ -17,17 +17,11 @@ I am a front-end engineer with passion for building interactive and user-friendl
 - [Email](mailto:namtrhg@gmail.com)
 
 ## Stats
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" style="width: 100%;" />
+  </a>
+</div>
