@@ -21,7 +21,7 @@ I am a front-end engineer with passion for building interactive and user-friendl
   <a href="https://github.com/anuraghazra/github-readme-stats" style="height: auto; width: 55%;">
     <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" style="max-width: 100%;" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="height: auto; width: 55%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="height: auto; width: 40%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" style="max-width: 100%;" />
   </a>
 </div>
