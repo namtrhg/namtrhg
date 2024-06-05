@@ -1,4 +1,4 @@
-<img src="https://cloud.newatlantic.vn/apps/files_sharing/publicpreview/xkg5HDEgtPeny6L?x=2560&y=1163&a=true&file=banner.webp&scalingup=0" alt="banner"/>
+<img src="https://cloud.newatlantic.vn/apps/files_sharing/publicpreview/gYsy3ppisgNfypZ?x=2560&y=1077&a=true&file=banner.webp&scalingup=0" alt="banner"/>
 
 ## About Me
 
