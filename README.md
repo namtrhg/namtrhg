@@ -17,9 +17,11 @@ I am a front-end engineer with passion for building interactive and user-friendl
 - [Email](mailto:namtrhg@gmail.com)
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-stats.tranhoangnam.net/api?username=namtrhg&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-stats.tranhoangnam.net/api/top-langs/?username=namtrhg&layout=compact&theme=radical" />
-</a>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img height="150" style="width: 100%;" src="https://github-stats.tranhoangnam.net/api?username=namtrhg&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img height="150" style="width: 100%;" src="https://github-stats.tranhoangnam.net/api/top-langs/?username=namtrhg&layout=compact&theme=radical" />
+  </a>
+</div>
