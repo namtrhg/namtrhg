@@ -18,6 +18,6 @@ I am a front-end engineer with passion for building interactive and user-friendl
 
 ## Stats
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="140" src="https://github-stats.tranhoangnam.net/api/top-langs/?username=namtrhg&count_private=true&theme=react&layout=compact"/>
-  <img height="140" src="https://github-stats.tranhoangnam.net/api?username=namtrhg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="160" src="https://github-stats.tranhoangnam.net/api/top-langs/?username=namtrhg&count_private=true&theme=react&layout=compact"/>
+  <img height="160" src="https://github-stats.tranhoangnam.net/api?username=namtrhg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
 </div>
