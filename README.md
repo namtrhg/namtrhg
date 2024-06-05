@@ -17,11 +17,8 @@ I am a front-end engineer with passion for building interactive and user-friendl
 - [Email](mailto:namtrhg@gmail.com)
 
 ## Stats
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" style="height: auto; width: 50%;" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" style="height: auto; width: 45%;" />
-  </a>
+<div style="display:flex;flex-direction:row;justify-content:center;">
+  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=namtrhg&count private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=namtrhg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
