@@ -18,10 +18,10 @@ I am a front-end engineer with passion for building interactive and user-friendl
 
 ## Stats
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="height: auto; width: 55%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" style="max-width: 100%;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=namtrhg&show_icons=true&theme=radical" style="height: auto; width: 55%;" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="height: auto; width: 40%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" style="max-width: 100%;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&layout=compact&theme=radical" style="height: auto; width: 40%;" />
   </a>
 </div>
