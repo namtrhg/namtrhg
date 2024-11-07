@@ -16,6 +16,6 @@ Hi there, I am a full-stack engineer with a passion for building interactive and
 
 ## Stats
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&count_private=true&theme=react&layout=compact"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=namtrhg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&count_private=true&theme=tokyonight&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=namtrhg&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
 </div>
