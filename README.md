@@ -5,7 +5,7 @@ Hi there, I am a full-stack engineer with a passion for building interactive and
 ## Skills and Technologies
 
 - **Languages**: JavaScript/ TypeScript, HTML, CSS
-- **Frameworks/ Libraries**: React, Vue.js, Node.js
+- **Frameworks/ Libraries**: React.js, Vue.js, Node.js
 - **Tools**: Git, Webpack, Docker
 - **Others**: Responsive Design, RESTful APIs, Agile Methodologies
 
