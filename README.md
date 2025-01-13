@@ -1,18 +1,18 @@
 ## About Me
 
-Hi there, I am a full-stack engineer with a passion for building interactive and user-friendly web applications. One of the most important lessons I've learned is that if someone tells you that you are not good enough or that you've reached your peak and can't improve anymore, they are wrong. In such cases, it's essential to seek a different environment that supports your growth. Your value may be recognized more highly in the eyes of others who appreciate your potential.
+Hello! I am a dedicated full-stack engineer with a strong passion for creating interactive and user-friendly web applications. Over the years, I've embraced the belief that growth is always possible. If someone says you've reached your peak or that you can't improve, it's often a reflection of their perspective rather than your potential. In such moments, finding an environment that nurtures your growth can make all the difference. Your value and potential are better recognized by those who genuinely appreciate your abilities.
 
 ## Skills and Technologies
 
-- **Languages**: JavaScript/ TypeScript, HTML, CSS
-- **Frameworks/ Libraries**: React.js, Vue.js, Node.js
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks/Libraries**: React.js, Vue.js, Node.js
 - **Tools**: Git, Webpack, Docker
 - **Others**: Responsive Design, RESTful APIs, Agile Methodologies
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/namtrhg/)
-- [Email](mailto:namtrhg@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namtrhg/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namtrhg@gmail.com)
 
 ## Stats
 <div style="display:flex;flex-direction:row;justify-content:center;">
