@@ -9,13 +9,15 @@ Hello! I am a dedicated full-stack engineer with a strong passion for creating i
 - **Tools**: Git, Webpack, Docker
 - **Others**: Responsive Design, RESTful APIs, Agile Methodologies
 
+## Stats
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&count_private=true&theme=tokyonight&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=namtrhg&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+</div>
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namtrhg/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namtrhg@gmail.com)
 
-## Stats
-<div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtrhg&count_private=true&theme=tokyonight&layout=compact"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=namtrhg&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
-</div>
